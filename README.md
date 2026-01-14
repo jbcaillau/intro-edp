@@ -5,6 +5,8 @@
  
 19-23 janvier 2026
 
+[Discussion](https://github.com/jbcaillau/intro-edp/discussions/1)
+
 ## Intervenants
 
 - [Timothée Fagart](https://github.com/tfagart64)
