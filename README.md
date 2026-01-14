@@ -8,9 +8,9 @@
 [Discussion](https://github.com/jbcaillau/intro-edp/discussions/1)
 
 ## Intervenants
+[Timothée Fagart](https://github.com/tfagart64)
 
-- [Timothée Fagart](https://github.com/tfagart64)
-- [Abderrahmane Habbal](https://math.univ-cotedazur.fr/~habbal) 
+[Abderrahmane Habbal](https://math.univ-cotedazur.fr/~habbal) 
 
 ## Objectifs
 
